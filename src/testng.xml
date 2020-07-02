@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rootUrl>http://bx-test1.com:8006/IDAM2/CES_API/</rootUrl>
+    　　<headers>
+    　 <!-- 配置为自己的参数 -->
+    　　<header name="Content-Type" value="application/json"></header>
+    　　</headers>
+    <params>
+        <param name="cellcode" value="test001"></param>
+        <param name="cellname" value="testname001"></param>
+        <param name="PHBCODE" value="PHBCODE001"></param>
+    </params>
+    <project_name>API接口自动化测试报告</project_name>
+</root>
